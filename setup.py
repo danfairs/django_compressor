@@ -18,10 +18,6 @@ setup(
     author_email = 'xian@mintchaos.com',
     packages = [
         'compressor',
-        'compressor.conf',
-        'compressor.filters',
-        'compressor.filters.jsmin',
-        'compressor.templatetags',
     ],
     package_data = {
         'compressor': [
